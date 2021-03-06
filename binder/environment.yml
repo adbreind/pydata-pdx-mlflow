@@ -1,0 +1,11 @@
+name: pydata-pdx-mlflow
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - jupyterlab
+  - numpy
+  - pip
+  - pandas
+  - scikit-learn
+  - mlflow
